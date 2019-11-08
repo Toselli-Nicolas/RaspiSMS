@@ -10,7 +10,7 @@
         //RaspiSMS settings
         'WEBSITE_TITLE' => 'RaspiSMS',
         'WEBSITE_DESCRIPTION' => '',
-        'WEBSITE_AUTHOR' => 'Raspbian-France',
+        'WEBSITE_AUTHOR' => 'Raspberry Pi FR',
         'PWD_SCRIPTS' => PWD . '/scripts',
         'PWD_RECEIVEDS' => PWD . '/receiveds',
         'APP_SECRET' => 'retyuijokplmrtè34567890',
