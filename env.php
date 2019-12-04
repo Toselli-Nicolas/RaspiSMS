@@ -15,6 +15,7 @@
         'PWD_RECEIVEDS' => PWD . '/receiveds',
         'HTTP_PWD_SOUND' => HTTP_PWD_ASSETS . '/sounds',
         'PWD_ADAPTERS' => PWD . '/adapters',
+        'PWD_DATAS' => PWD . '/datas',
         'APP_SECRET' => 'retyuijokplmrtè34567890',
 
         //E-mail types
