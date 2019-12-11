@@ -16,6 +16,8 @@
         'HTTP_PWD_SOUND' => HTTP_PWD_ASSETS . '/sounds',
         'PWD_ADAPTERS' => PWD . '/adapters',
         'PWD_DATAS' => PWD . '/datas',
+        'PWD_LOGS' => '/var/log/',
+        'PWD_PID' => '/var/run/raspisms',
         'APP_SECRET' => 'retyuijokplmrtè34567890',
 
         //E-mail types
@@ -29,5 +31,9 @@
             'subject' => 'Création de votre compte RaspiSMS',
             'template' => 'email/create-user',  
         ],
+
+        //Phone messages types
+        'SEND_MSG' => 1, 
+        'RECEIVE_MSG' => 2, 
 	];
 
