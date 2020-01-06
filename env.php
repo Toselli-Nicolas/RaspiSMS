@@ -33,7 +33,28 @@
         ],
 
         //Phone messages types
-        'SEND_MSG' => 1, 
-        'RECEIVE_MSG' => 2, 
+        'QUEUE_TYPE_SEND_MSG' => 1, 
+        'QUEUE_TYPE_RECEIVE_MSG' => 2, 
+
+        //Queues ids
+        'QUEUE_ID_WEBHOOK' => 82658380738377839587696672797975958185698569,
+        'QUEUE_TYPE_WEBHOOK' => 3,
+
+        //User default settings
+        'USER_DEFAULT_SETTINGS' => [
+            'detect_url' => 1,
+            'sms_reception_sound' => 1,
+            'transfer' => 0,
+            'smsstop' => 1,
+            'sms_flash' => 0,
+            'templating' => 1,
+            'display_help' => 1,
+            'conditional_group' => 1,
+            'webhook' => 1,
+            'preferred_phone_country' => 'fr,be,ca',
+            'default_phone_country' => 'fr',
+            'authorized_phone_country' => 'fr,be,ca',
+            'mms' => 0,
+        ],
 	];
 
