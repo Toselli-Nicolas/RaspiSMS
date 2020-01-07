@@ -37,7 +37,7 @@
         'QUEUE_TYPE_RECEIVE_MSG' => 2, 
 
         //Queues ids
-        'QUEUE_ID_WEBHOOK' => 82658380738377839587696672797975958185698569,
+        'QUEUE_ID_WEBHOOK' => 8265838073837783,
         'QUEUE_TYPE_WEBHOOK' => 3,
 
         //User default settings
