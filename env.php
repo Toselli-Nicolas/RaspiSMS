@@ -31,6 +31,11 @@
             'subject' => 'Création de votre compte RaspiSMS',
             'template' => 'email/create-user',  
         ],
+        'EMAIL_TRANSFER_SMS' => [
+            'type' => 'email_transfer_sms',
+            'subject' => 'Vous avez reçu un SMS',
+            'template' => 'email/transfer-sms',  
+        ],
 
         //Phone messages types
         'QUEUE_TYPE_SEND_MSG' => 1, 
